@@ -6,7 +6,7 @@ Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um f
 
 Após feito o fork, clone o repositório criado para o seu computador.
 
-Rode o `npm install`.
+Rode `npm install`.
 
 Vá para a branch master do seu projeto e execute o comando:
 
@@ -22,7 +22,7 @@ Após a solução dos exercícios, abra um PR no seu repositório forkado e, se 
 
 ![PR do exercício](images/example-pr.png)
 
-É necessário realizar uma mudança. Clique no *base repository* como na imagem abaixo:
+É necessário realizar uma mudança. Clique no _base repository_ como na imagem abaixo:
 
 ![Mudando a base do repositório](images/change-base.png)
 
